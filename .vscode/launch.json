@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringPalindrome",
+            "request": "launch",
+            "mainClass": "String.StringPalindrome",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch NewPatternReverseString",
             "request": "launch",
             "mainClass": "String.NewPatternReverseString",
