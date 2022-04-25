@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReversedString",
+            "request": "launch",
+            "mainClass": "String.ReversedString",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountWords",
+            "request": "launch",
+            "mainClass": "String.CountWords",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch UserInputString",
             "request": "launch",
             "mainClass": "String.UserInputString",
