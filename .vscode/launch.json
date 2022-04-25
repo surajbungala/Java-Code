@@ -1,0 +1,368 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch UserInputString",
+            "request": "launch",
+            "mainClass": "String.UserInputString",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrringInput",
+            "request": "launch",
+            "mainClass": "String.StrringInput",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strring",
+            "request": "launch",
+            "mainClass": "String.Strring",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestRoworColSum",
+            "request": "launch",
+            "mainClass": "Array2d.LargestRoworColSum",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RowwiseSum",
+            "request": "launch",
+            "mainClass": "Array2d.RowwiseSum",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function2dArray",
+            "request": "launch",
+            "mainClass": "Array2d.Function2dArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputTwoDArray",
+            "request": "launch",
+            "mainClass": "Array2d.InputTwoDArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InitializeArray",
+            "request": "launch",
+            "mainClass": "Array2d.InitializeArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSortedArray",
+            "request": "launch",
+            "mainClass": "Array.MergeTwoSortedArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "Array.InsertionSort",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Array.BubbleSort",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch XOR",
+            "request": "launch",
+            "mainClass": "Array.XOR",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "Array.SelectionSort",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Array.BinarySearch",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicate",
+            "request": "launch",
+            "mainClass": "Array.Duplicate",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapAlternate",
+            "request": "launch",
+            "mainClass": "Array.SwapAlternate",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintAllPairs",
+            "request": "launch",
+            "mainClass": "Array.PrintAllPairs",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimitiveFunction",
+            "request": "launch",
+            "mainClass": "Array.PrimitiveFunction",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySum",
+            "request": "launch",
+            "mainClass": "Array.ArraySum",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionArray",
+            "request": "launch",
+            "mainClass": "Array.FunctionArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayUserInput",
+            "request": "launch",
+            "mainClass": "Array.ArrayUserInput",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDecl",
+            "request": "launch",
+            "mainClass": "Array.ArrayDecl",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cars",
+            "request": "launch",
+            "mainClass": "Cars",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassbyValue",
+            "request": "launch",
+            "mainClass": "PassbyValue",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solutiion",
+            "request": "launch",
+            "mainClass": "Solutiion",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumFunction",
+            "request": "launch",
+            "mainClass": "SumFunction",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactFunction",
+            "request": "launch",
+            "mainClass": "FactFunction",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fabonacci",
+            "request": "launch",
+            "mainClass": "Fabonacci",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarIsosceles",
+            "request": "launch",
+            "mainClass": "StarIsosceles",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsosclesPattern",
+            "request": "launch",
+            "mainClass": "IsosclesPattern",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedNumPattern",
+            "request": "launch",
+            "mainClass": "InvertedNumPattern",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedTrianglePattern",
+            "request": "launch",
+            "mainClass": "InvertedTrianglePattern",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarMirrorPattern",
+            "request": "launch",
+            "mainClass": "StarMirrorPattern",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharPattern3",
+            "request": "launch",
+            "mainClass": "CharPattern3",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharPattern2",
+            "request": "launch",
+            "mainClass": "CharPattern2",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharPattern",
+            "request": "launch",
+            "mainClass": "CharPattern",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ext",
+            "request": "launch",
+            "mainClass": "Ext",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReturnStatement",
+            "request": "launch",
+            "mainClass": "ReturnStatement",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "Project Java_206976c5"
+        }
+    ]
+}
