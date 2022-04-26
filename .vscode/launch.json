@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SubString2",
+            "request": "launch",
+            "mainClass": "String.SubString2",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubString1",
+            "request": "launch",
+            "mainClass": "String.SubString1",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch StringPalindrome",
             "request": "launch",
             "mainClass": "String.StringPalindrome",
