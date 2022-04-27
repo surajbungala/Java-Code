@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringsBuffer",
+            "request": "launch",
+            "mainClass": "String.StringsBuffer",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch SubString2",
             "request": "launch",
             "mainClass": "String.SubString2",
