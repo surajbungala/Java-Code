@@ -8,7 +8,7 @@ public class ReversedString {
     public static String reversedString(String str){
        // String stt = str.length();
        int stt = str.length();
-        String reverseString = " ";
+        String reverseString = "";
         for(int i = stt - 1; i >= 0; i--){
             reverseString += str.charAt(i);
         }
