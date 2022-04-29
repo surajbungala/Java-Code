@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RemoveConsecutiveDuplicates",
+            "request": "launch",
+            "mainClass": "String.RemoveConsecutiveDuplicates",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplementStrstr",
+            "request": "launch",
+            "mainClass": "String.ImplementStrstr",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversedWordWise",
+            "request": "launch",
+            "mainClass": "String.ReversedWordWise",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversedEachWord",
+            "request": "launch",
+            "mainClass": "String.ReversedEachWord",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch StringsBuffer",
             "request": "launch",
             "mainClass": "String.StringsBuffer",
