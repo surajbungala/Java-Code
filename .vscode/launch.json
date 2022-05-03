@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RotationOfString",
+            "request": "launch",
+            "mainClass": "String.RotationOfString",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveCharacter",
+            "request": "launch",
+            "mainClass": "String.RemoveCharacter",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch RemoveConsecutiveDuplicates",
             "request": "launch",
             "mainClass": "String.RemoveConsecutiveDuplicates",
