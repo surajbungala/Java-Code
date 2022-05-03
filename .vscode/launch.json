@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CalFibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.CalFibonacci",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalFactorial",
+            "request": "launch",
+            "mainClass": "Recursion.CalFactorial",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumNaturalNumbers",
+            "request": "launch",
+            "mainClass": "Recursion.SumNaturalNumbers",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecreasingOrder",
+            "request": "launch",
+            "mainClass": "Recursion.DecreasingOrder",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncreasingOrder",
+            "request": "launch",
+            "mainClass": "Recursion.IncreasingOrder",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch RotationOfString",
             "request": "launch",
             "mainClass": "String.RotationOfString",
