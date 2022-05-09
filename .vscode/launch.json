@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LastIndexOfArrayBetter",
+            "request": "launch",
+            "mainClass": "Recursion.LastIndexOfArrayBetter",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastIndexOfArray",
+            "request": "launch",
+            "mainClass": "Recursion.LastIndexOfArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstIndexOfArrayBetter",
+            "request": "launch",
+            "mainClass": "Recursion.FirstIndexOfArrayBetter",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstIndexOfArray",
+            "request": "launch",
+            "mainClass": "Recursion.FirstIndexOfArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BetterArraySorted",
+            "request": "launch",
+            "mainClass": "Recursion.BetterArraySorted",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayIsSorted",
+            "request": "launch",
+            "mainClass": "Recursion.ArrayIsSorted",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastFibonacciNumber",
+            "request": "launch",
+            "mainClass": "Recursion.LastFibonacciNumber",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatePowerLogn",
+            "request": "launch",
+            "mainClass": "Recursion.CalculatePowerLogn",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatePower",
+            "request": "launch",
+            "mainClass": "Recursion.CalculatePower",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch CalFibonacci",
             "request": "launch",
             "mainClass": "Recursion.CalFibonacci",
