@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Static",
+            "request": "launch",
+            "mainClass": "OOPs.Static",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Job",
+            "request": "launch",
+            "mainClass": "OOPs.Job",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constructors",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOPs",
+            "request": "launch",
+            "mainClass": "OOPs.OOPs",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "Recursion.TowerOfHanoi",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastIndexQuickSortRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.LastIndexQuickSortRecursion",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSortRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.QuickSortRecursion",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.MergeSortRecursion",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchWithRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearchWithRecursion",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplacePi",
+            "request": "launch",
+            "mainClass": "Recursion.ReplacePi",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplaceChar",
+            "request": "launch",
+            "mainClass": "Recursion.ReplaceChar",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch LastIndexOfArrayBetter",
             "request": "launch",
             "mainClass": "Recursion.LastIndexOfArrayBetter",
