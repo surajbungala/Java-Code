@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DynamicArray",
+            "request": "launch",
+            "mainClass": "OOP.DynamicArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicArray_2",
+            "request": "launch",
+            "mainClass": "OOP.DynamicArray_2",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorpism",
+            "request": "launch",
+            "mainClass": "OOP.Polymorpism",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolyCase",
+            "request": "launch",
+            "mainClass": "OOPs.PolyCase",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorpism",
+            "request": "launch",
+            "mainClass": "Polymorpism",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicArray_2",
+            "request": "launch",
+            "mainClass": "OOPs.DynamicArray_2",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorpism",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorpism",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperKeyword_1",
+            "request": "launch",
+            "mainClass": "OOPs.SuperKeyword_1",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperKeyword",
+            "request": "launch",
+            "mainClass": "OOPs.SuperKeyword",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritance",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicArray",
+            "request": "launch",
+            "mainClass": "OOPs.DynamicArray",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionUse",
+            "request": "launch",
+            "mainClass": "OOPs.FractionUse",
+            "projectName": "Project Java_206976c5"
+        },
+        {
+            "type": "java",
             "name": "Launch Static",
             "request": "launch",
             "mainClass": "OOPs.Static",
